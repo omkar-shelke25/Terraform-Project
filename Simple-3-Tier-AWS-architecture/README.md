@@ -1,4 +1,3 @@
-```markdown
 # AWS VPC Terraform Configuration - 3-Tier Architecture
 
 This repository contains a **Terraform configuration** for creating a **3-Tier VPC architecture** in AWS. The architecture includes Public, Private, and Database subnets, with associated routing and gateway configurations. The setup is designed for a scalable, secure, and highly available application infrastructure.
@@ -129,5 +128,5 @@ This will delete all the resources created by Terraform in your AWS account.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
+
 
